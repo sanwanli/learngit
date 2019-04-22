@@ -1,2 +1,3 @@
 git is free soft
 git is usefull
+git is simple
